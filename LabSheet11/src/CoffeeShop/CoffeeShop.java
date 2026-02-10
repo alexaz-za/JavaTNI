@@ -9,6 +9,7 @@ public class CoffeeShop {
         System.out.print("Enter a size: ");
         String size = sc.next();
         Espresso espresso = new Espresso(size);
+        
         System.out.print("Press 'y' or 'Y' for adding a shot: ");
         String addShot = sc.next();
 
@@ -17,7 +18,6 @@ public class CoffeeShop {
             int shot = sc.nextInt();
             espresso.addShot(shot);
         }
-
         return espresso;
     }
 
@@ -27,13 +27,8 @@ public class CoffeeShop {
         System.out.print("Do you would like to add whipped cream [y/Y]? ");
         String addWhipped = sc.next();
 
-        boolean hasWhipped = false;
-        if(addWhipped.equalsIgnoreCase("y")){
-            hasWhipped = true;
-        }
-
-        Frappuccino frappuccino = new Frappuccino(size,hasWhipped);
-        return frappuccino;
+        boolean hasWhipped = addWhipped.equalsIgnoreCase("y");
+        return new Frappuccino(size,hasWhipped);
     }
 
     public static void main(String[] args) {
@@ -46,18 +41,16 @@ public class CoffeeShop {
             System.out.print("Enter an option: ");
             int option = sc.nextInt();
 
-            Drink drink = null;
-
             if (option == 1) {
-                drink = orderEspresso();
-                totalPrice += drink.calculateFinalPrice();
-                System.out.println(drink);
+                Espresso espresso = orderEspresso();
+                System.out.println(espresso);
+                totalPrice += espresso.calculateFinalPrice();
                 EspressoCount++;
             }
             else if (option == 2) {
-                drink = orderFrappuccino();
-                totalPrice += drink.calculateFinalPrice();
-                System.out.println(drink);
+                Frappuccino frappuccino = orderFrappuccino();
+                System.out.println(frappuccino);
+                totalPrice += frappuccino.calculateFinalPrice();
                 Frappuccino++;
             }
             else break;
