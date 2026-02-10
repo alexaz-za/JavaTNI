@@ -63,6 +63,5 @@ public class CoffeeShop {
         System.out.println("\nYou ordered " + EspressoCount + " Espresso" +
                 "\nYou ordered " + Frappuccino + " Frappuccino" +
                 "\nTotal Price = " + totalPrice);
-
     }
 }
