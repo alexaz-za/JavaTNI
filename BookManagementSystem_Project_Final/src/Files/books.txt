@@ -1,0 +1,99 @@
+Harry Potter and the Philosopher's Stone,J.K. Rowling,350.0,20
+The Hobbit,J.R.R. Tolkien,320.0,10
+1984,George Orwell,280.0,18
+The Great Gatsby,F. Scott Fitzgerald,250.0,8
+To Kill a Mockingbird,Harper Lee,290.0,0
+The Catcher in the Rye,J.D. Salinger,270.0,3
+The Alchemist,Paulo Coelho,220.0,28
+Pride and Prejudice,Jane Austen,190.0,18
+The Lord of the Rings,J.R.R. Tolkien,850.0,7
+Animal Farm,George Orwell,180.0,24
+The Little Prince,Antoine de Saint-Exupéry,150.0,34
+The Da Vinci Code,Dan Brown,380.0,5
+Gone Girl,Gillian Flynn,340.0,5
+The Shining,Stephen King,360.0,11
+Dune,Frank Herbert,450.0,16
+Foundation,Isaac Asimov,390.0,7
+Neuromancer,William Gibson,330.0,3
+Norwegian Wood,Haruki Murakami,320.0,16
+Kafka on the Shore,Haruki Murakami,350.0,10
+The Art of War,Sun Tzu,120.0,50
+Sapiens,Yuval Noah Harari,590.0,22
+Thinking Fast and Slow,Daniel Kahneman,550.0,13
+Atomic Habits,James Clear,350.0,100
+Deep Work,Cal Newport,320.0,20
+The Silent Patient,Alex Michaelides,340.0,14
+The Midnight Library,Matt Haig,300.0,19
+Circe,Madeline Miller,330.0,8
+Song of Achilles,Madeline Miller,320.0,7
+Project Hail Mary,Andy Weir,420.0,12
+The Martian,Andy Weir,380.0,15
+Dark Matter,Blake Crouch,350.0,9
+Normal People,Sally Rooney,310.0,21
+Conversations with Friends,Sally Rooney,300.0,11
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,360.0,14
+Daisy Jones & The Six,Taylor Jenkins Reid,340.0,10
+Malibu Rising,Taylor Jenkins Reid,350.0,8
+The Power of Habit,Charles Duhigg,380.0,13
+Start with Why,Simon Sinek,320.0,25
+The 4-Hour Workweek,Tim Ferriss,400.0,10
+Zero to One,Peter Thiel,350.0,18
+The Lean Startup,Eric Ries,390.0,14
+Rich Dad Poor Dad,Robert Kiyosaki,250.0,60
+The Intelligent Investor,Benjamin Graham,650.0,9
+Psychology of Money,Morgan Housel,350.0,45
+Man's Search for Meaning,Viktor Frankl,250.0,30
+Meditations,Marcus Aurelius,200.0,50
+The Daily Stoic,Ryan Holiday,380.0,22
+Ego is the Enemy,Ryan Holiday,350.0,15
+Obstacle is the Way,Ryan Holiday,340.0,17
+The Book Thief,Markus Zusak,320.0,12
+A Game of Thrones,George R.R. Martin,450.0,20
+A Clash of Kings,George R.R. Martin,450.0,15
+A Storm of Swords,George R.R. Martin,480.0,10
+A Feast for Crows,George R.R. Martin,450.0,8
+A Dance with Dragons,George R.R. Martin,490.0,7
+Good Omens,Neil Gaiman,320.0,13
+American Gods,Neil Gaiman,350.0,9
+Coraline,Neil Gaiman,250.0,20
+The Graveyard Book,Neil Gaiman,280.0,11
+Neverwhere,Neil Gaiman,300.0,14
+The Ocean at the End of the Lane,Neil Gaiman,290.0,10
+Ready Player One,Ernest Cline,340.0,16
+Annihilation,Jeff VanderMeer,310.0,5
+Exhalation,Ted Chiang,350.0,12
+Story of Your Life,Ted Chiang,330.0,8
+The Overstory,Richard Powers,380.0,4
+Klāra and the Sun,Kazuo Ishiguro,360.0,14
+Never Let Me Go,Kazuo Ishiguro,320.0,18
+The Remains of the Day,Kazuo Ishiguro,310.0,12
+The Shadow of the Wind,Carlos Ruiz Zafon,380.0,9
+The Name of the Wind,Patrick Rothfuss,420.0,11
+The Wise Man's Fear,Patrick Rothfuss,450.0,6
+Mistborn,Brandon Sanderson,390.0,25
+The Way of Kings,Brandon Sanderson,550.0,10
+Words of Radiance,Brandon Sanderson,550.0,8
+Oathbringer,Brandon Sanderson,580.0,7
+Rhythm of War,Brandon Sanderson,600.0,5
+Skyward,Brandon Sanderson,350.0,12
+The Final Empire,Brandon Sanderson,380.0,14
+The Well of Ascension,Brandon Sanderson,380.0,10
+The Hero of Ages,Brandon Sanderson,390.0,9
+Six of Crows,Leigh Bardugo,340.0,15
+Crooked Kingdom,Leigh Bardugo,340.0,12
+Shadow and Bone,Leigh Bardugo,320.0,20
+Siege and Storm,Leigh Bardugo,320.0,14
+Ruin and Rising,Leigh Bardugo,330.0,13
+The Hunger Games,Suzanne Collins,300.0,30
+Catching Fire,Suzanne Collins,300.0,25
+Mockingjay,Suzanne Collins,300.0,22
+Divergent,Veronica Roth,290.0,18
+Insurgent,Veronica Roth,290.0,15
+Allegiant,Veronica Roth,300.0,12
+The Maze Runner,James Dashner,310.0,20
+The Scorch Trials,James Dashner,310.0,14
+The Death Cure,James Dashner,320.0,11
+The Goldfinch,Donna Tartt,420.0,6
+The Secret History,Donna Tartt,380.0,9
+Where the Crawdads Sing,Delia Owens,350.0,24
+The Paris Apartment,Lucy Foley,330.0,15
